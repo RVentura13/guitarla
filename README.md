@@ -4,7 +4,7 @@ Este repositorio contiene el código fuente de un proyecto personal.
 
 ## Descripción
 
-Esta página es un proyecto personal, se trata de un carrito de compras para una tienda de venta de guitarras, solamente es front-end aunque si maneja local storage.
+Esta página es un proyecto personal, se trata de un carrito de compras para una tienda de venta de guitarras, solamente es front-end aunque si maneja local storage. Proyecto elaborado con React TypeScript y useReducer.
 
 ## Uso del Repositorio
 
